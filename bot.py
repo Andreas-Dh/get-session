@@ -3,8 +3,9 @@ import os
 import asyncio
 
 # Ganti dengan API ID dan API Hash Anda
-API_ID = 'CHANGE_YOUR_API_ID'
-API_HASH = 'CHANGE_YOUR_HASH_ID'
+API_ID = '26613181'
+API_HASH = '
+0a75ef48d4c003434f464f4b53f7c9f5'
 SESSION_DIR = 'sessions'
 
 # Membuat folder sessions jika belum ada
